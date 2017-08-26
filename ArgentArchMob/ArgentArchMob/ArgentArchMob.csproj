@@ -115,9 +115,9 @@
     </AndroidResource>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Properties\AndroidManifest.xml">
+    <None Include="Properties\AndroidManifest.xml">
       <SubType>Designer</SubType>
-    </Content>
+    </None>
     <AndroidResource Include="Resources\values\colors.xml" />
     <AndroidResource Include="Resources\values\integers.xml" />
     <AndroidResource Include="Resources\values\strings.xml" />
